@@ -1,0 +1,4 @@
+gcc -c math.c -o math.o
+ar rcs libmaths.a math.o 
+gcc 5.c -L. -lmaths -o 5
+gcc 5.c

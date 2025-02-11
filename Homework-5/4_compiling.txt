@@ -1,0 +1,1 @@
+gcc 9klas/Domashno5/4.c -lm

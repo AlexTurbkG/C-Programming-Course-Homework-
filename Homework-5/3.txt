@@ -1,0 +1,4 @@
+gcc -c transformation.c -o transformation.o
+
+gcc main.c 
+.\a.exe
